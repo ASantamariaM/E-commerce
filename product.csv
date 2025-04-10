@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price
+1,ActiveWear Biography,Books,1693
+2,ActiveWear Smartwatch,Electronics,3463
+3,ComfortLiving Biography,Books,4412
+4,BookWorld Rug,Home Decor,9569
+5,TechPro T-Shirt,Clothing,42931
+6,ActiveWear Rug,Home Decor,12132
+7,SoundWave Cookbook,Books,42015
+8,BookWorld Bluetooth Speaker,Electronics,14685
+9,BookWorld Wall Art,Home Decor,32501
+10,ComfortLiving Smartwatch,Electronics,35013
+11,SoundWave Desk Lamp,Home Decor,2612
+12,ComfortLiving Headphones,Electronics,1596
+13,BookWorld Smartwatch,Electronics,1142
+14,ActiveWear Jacket,Clothing,2626
+15,HomeSense Headphones,Electronics,15893
+16,ActiveWear Running Shoes,Clothing,33005
+17,ActiveWear Textbook,Books,46977
+18,ComfortLiving Mystery Book,Books,43689
+19,ComfortLiving Sweater,Clothing,38537
+20,ActiveWear Jacket,Clothing,39634
+21,SoundWave Rug,Home Decor,33584
+22,HomeSense Wall Art,Home Decor,13754
+23,ActiveWear Cookware Set,Home Decor,45453
+24,SoundWave Cookbook,Books,33866
+25,ActiveWear Cookware Set,Home Decor,28462
+26,SoundWave Bluetooth Speaker,Electronics,6438
+27,SoundWave Headphones,Electronics,22906
+28,HomeSense Desk Lamp,Home Decor,23558
+29,TechPro Headphones,Electronics,43364
+30,ActiveWear Cookbook,Books,27786
+31,SoundWave Headphones,Electronics,1964
+32,BookWorld Cookbook,Books,48863
+33,TechPro T-Shirt,Clothing,6425
+34,HomeSense T-Shirt,Clothing,21705
+35,ActiveWear T-Shirt,Clothing,3059
+36,BookWorld Jacket,Clothing,37255
+37,SoundWave Smartwatch,Electronics,45986
+38,TechPro Vase,Home Decor,14722
+39,TechPro Smartwatch,Electronics,43059
+40,SoundWave Mystery Book,Books,15319
+41,ComfortLiving Smartphone,Electronics,45628
+42,ActiveWear Headphones,Electronics,37944
+43,SoundWave Novel,Books,4044
+44,ActiveWear Running Shoes,Clothing,1882
+45,SoundWave T-Shirt,Clothing,48178
+46,BookWorld Sweater,Clothing,36607
+47,ComfortLiving Cookware Set,Home Decor,15933
+48,TechPro Cookbook,Books,4164
+49,TechPro Textbook,Books,14795
+50,ActiveWear Smartwatch,Electronics,43765
+51,ComfortLiving Desk Lamp,Home Decor,6516
+52,SoundWave Jacket,Clothing,35481
+53,TechPro Rug,Home Decor,27494
+54,SoundWave Cookbook,Books,573
+55,BookWorld Biography,Books,12853
+56,SoundWave Smartwatch,Electronics,1608
+57,ActiveWear Smartphone,Electronics,2397
+58,ActiveWear Textbook,Books,15762
+59,SoundWave Jeans,Clothing,3032
+60,HomeSense T-Shirt,Clothing,15565
+61,HomeSense Desk Lamp,Home Decor,15696
+62,HomeSense Novel,Books,37416
+63,TechPro Novel,Books,3359
+64,HomeSense Running Shoes,Clothing,45242
+65,BookWorld Sweater,Clothing,42761
+66,SoundWave Textbook,Books,33722
+67,ComfortLiving Bluetooth Speaker,Electronics,30068
+68,TechPro Novel,Books,44723
+69,BookWorld Biography,Books,10081
+70,HomeSense T-Shirt,Clothing,4869
+71,TechPro T-Shirt,Clothing,12736
+72,ActiveWear Headphones,Electronics,39934
+73,ComfortLiving Laptop,Electronics,2699
+74,SoundWave Desk Lamp,Home Decor,29558
+75,TechPro Textbook,Books,49776
+76,ActiveWear Jeans,Clothing,42929
+77,ActiveWear Smartwatch,Electronics,26551
+78,HomeSense Rug,Home Decor,4118
+79,ActiveWear Rug,Home Decor,41737
+80,ActiveWear Jacket,Clothing,3035
+81,HomeSense Sweater,Clothing,6632
+82,ComfortLiving Rug,Home Decor,5599
+83,ActiveWear Smartwatch,Electronics,45572
+84,ActiveWear Wall Art,Home Decor,33791
+85,BookWorld Biography,Books,41635
+86,SoundWave Novel,Books,4407
+87,TechPro Running Shoes,Clothing,29017
+88,SoundWave Headphones,Electronics,26355
+89,HomeSense Bluetooth Speaker,Electronics,22091
+90,ComfortLiving Biography,Books,1653
+91,HomeSense Rug,Home Decor,22295
+92,BookWorld Running Shoes,Clothing,3892
+93,TechPro Vase,Home Decor,30494
+94,HomeSense Cookware Set,Home Decor,44734
+95,BookWorld Cookware Set,Home Decor,22726
+96,SoundWave Headphones,Electronics,30747
+97,BookWorld Cookbook,Books,31934
+98,SoundWave Laptop,Electronics,29993
+99,SoundWave Mystery Book,Books,35429
+100,HomeSense Sweater,Clothing,12634
